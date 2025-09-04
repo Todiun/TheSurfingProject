@@ -1,0 +1,20 @@
+
+.background-image {
+    background-image: url('https://media.istockphoto.com/id/186123880/fr/photo/gros-plan-dun-motif-de-surfeur-d%C3%A9quitation-bleu-une-grande-onde.jpg?s=612x612&w=0&k=20&c=OJqwZVG_DfkibBnxJBPJF7_8G7OvwRshC0RumpTvbHU=');
+    background-size: cover;
+    background-position: center;
+    height: 60vh; /* Adjust height as needed */
+    width: 100vw;
+    position: relative;
+    opacity: 0.8   ;
+}
+body {
+    
+    
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.prix {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
